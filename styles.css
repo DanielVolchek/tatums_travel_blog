@@ -1,0 +1,36 @@
+/* change fonts */
+* {
+  font-family: "Arial";
+}
+
+/* change header */
+header {
+  background-image: url("https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwcGFub3JhbWF8ZW58MHx8MHx8&w=1000&q=80");
+  background-size: cover;
+  color: #fff;
+}
+
+/* change body */
+body {
+  background-color: #f3f3f3;
+}
+
+/* change h1 */
+h1 {
+  color: red;
+}
+
+/* change h3 */
+h3 {
+  color: blue;
+}
+
+/* change article */
+article {
+  background: linear-gradient(red, blue);
+}
+
+/* change a tags */
+a {
+  color: lightseagreen;
+}
